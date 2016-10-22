@@ -133,6 +133,5 @@ D:\Hack\FinishItForMe\FinishItForMe\bin\Microsoft.Owin.Security.OAuth.xml
 D:\Hack\FinishItForMe\FinishItForMe\bin\Microsoft.Owin.Security.Google.xml
 D:\Hack\FinishItForMe\FinishItForMe\bin\Microsoft.Owin.Security.Twitter.xml
 D:\Hack\FinishItForMe\FinishItForMe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\Hack\FinishItForMe\FinishItForMe\obj\Debug\FinishItForMe.csprojResolveAssemblyReference.cache
 D:\Hack\FinishItForMe\FinishItForMe\obj\Debug\FinishItForMe.dll
 D:\Hack\FinishItForMe\FinishItForMe\obj\Debug\FinishItForMe.pdb
